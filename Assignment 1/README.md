@@ -62,7 +62,6 @@ PostgreSQL has no built-in round-robin partitioning, so it is simulated:
 Requirements: PostgreSQL 14, Python 3 and `psycopg2`.
 
 ```bash
-pip install psycopg2-binary
 python3 tester.py
 ```
 
