@@ -5,16 +5,13 @@
 ![SQL](https://img.shields.io/badge/SQL-Analytics-informational)
 ![Docker](https://img.shields.io/badge/Docker-Environment-2496ED?logo=docker&logoColor=white)
 
-Coursework for **CSE 511: Data Processing at Scale** at Arizona State University. Three progressive assignments take a large Reddit dataset (over 18 million rows) from raw CSV files to a partitioned PostgreSQL database with a custom query processor.
+Coursework for **CSE 511: Data Processing at Scale** at Arizona State University. The assignments work with a large Reddit dataset (over 18 million rows) and cover database design, bulk data loading, partitioning, and query processing with PostgreSQL, SQL, and Python. This repository is updated as new assignments are completed.
 
-## Course Progression
+**Topics covered so far:** `postgresql` · `sql` · `python` · `bulk loading` · `partitioning` · `query processing`
 
-The assignments build on one another:
+## Assignments
 
-```text
- CSV files ──► Relational database ──► Partitioned tables ──► Query processor
- (Assignment 0)       (Assignment 0)       (Assignment 1)        (Assignment 2)
-```
+Early assignments build on one another, from raw CSV files to a relational database, then to partitioned tables and a query processor.
 
 | # | Assignment | Focus | Tools |
 |---|---|---|---|
