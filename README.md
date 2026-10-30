@@ -71,13 +71,6 @@ docker pull change1472/cse511-database-creation:latest
 # Assignment 2 (includes the partitioned database from Assignment 1)
 docker pull change1472/cse511-query-processing:latest
 ```
-
-Assignments 1 and 2 also need Python 3 and `psycopg2`:
-
-```bash
-pip install psycopg2-binary
-```
-
 See each assignment's README for the exact commands.
 
 ## Author
